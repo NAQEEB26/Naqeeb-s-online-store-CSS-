@@ -1,0 +1,60 @@
+.nav1{
+width: 100%;
+    background-color: chocolate;
+ font-size: medium;
+text-align: center;
+position:fixed; 
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+top: 0px;
+transition: 10px;
+}
+li{
+    background-color: chocolate;
+    display: inline-block;
+    width: 10%
+    ;
+    
+}
+h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+button{
+    padding: 10px;
+    margin-left: 350px;
+    background-color: rebeccapurple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 40%;
+    border-radius: 10px;
+}
+li:hover{
+background-color: rgb(179, 255, 0);
+color: antiquewhite;
+border-radius: 30px;
+}
+h2{
+    text-align: center;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    columns: blue;
+}
+
+#abc{
+    color: rgb(137, 43, 226);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.burger{
+    color: rgb(135, 183, 222);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+input{
+    background-color: black;
+
+}
+footer{
+    background-color: burlywood;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
